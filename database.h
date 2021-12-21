@@ -9,7 +9,7 @@
 
 using namespace std;
 
-class Db
+class Database
 {
 private:
     vector <Table *> tables;

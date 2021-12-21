@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    Db * db = new Db;
+    Database * db = new Database;
 
     string command;
     int r = 1;
